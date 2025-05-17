@@ -1,0 +1,48 @@
+# OOP Assignments in Python
+
+This folder contains 21 Object-Oriented Programming (OOP) assignments implemented in Python.
+
+## List of Assignments
+1. Using self
+2. Using cls
+3. Public Variables and Methods
+4. Class Variables and Class Methods
+5. Static Variables and Static Methods
+6. Constructors and Destructors
+7. Access Modifiers: Public, Private, and Protected
+8. The super() Function
+9. Abstract Classes and Methods
+10. Instance Methods
+11. Class Methods
+12. Static Methods
+13. Composition
+14. Aggregation
+15. Method Resolution Order (MRO) and Diamond Inheritance
+16. Function Decorators
+17. Class Decorators
+18. Property Decorators: @property, @setter, and @deleter
+19. callable() and __call__()
+20. Creating a Custom Exception
+21. Make a Custom Class Iterable
+
+## How to Run
+
+1. Make sure Python 3 is installed on your system.
+2. Open terminal or VS Code.
+3. Open the assignment file you want to run.
+4. Run the file using the command:
+
+python filename.py
+
+Example:
+python assignment1_self.py
+.....assigment2 ,3,4 etc
+
+
+. The output will be shown in the terminal.
+
+---
+
+Enjoy learning OOP with these assignments!
+
+

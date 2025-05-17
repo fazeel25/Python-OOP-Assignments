@@ -1,0 +1,15 @@
+## How to Run All Assignments Together
+
+A script named `run_all.py` is included in this folder to run all assignments one by one automatically.
+
+To run all assignments:
+
+1. Open terminal or VS Code.
+2. Run the command:
+
+## python run_all.py
+
+This will execute all assignment files sequentially and show their outputs in the terminal.
+
+---
+
